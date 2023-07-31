@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "84874cc1-db7e-4503-b085-13ae781be6b3",
+    "Name": "Cherry"
+  },
+  {
+    "Id": "79194f8c-a505-45f4-81d4-65897e92e297",
+    "Name": "Mango"
+  },
+  {
+    "Id": "dd98bf74-feb7-45f6-96c2-d13ce12eeb6b",
+    "Name": "Orange"
+  },
+  {
+    "Id": "1acdef2a-24e4-4ac2-b672-81938c4fb468",
+    "Name": "Banana"
+  },
+  {
+    "Id": "1f0ad0b8-ee1d-44fd-be86-a414b1a26b9c",
+    "Name": "Apples"
+  },
+  {
+    "Id": "46496231-8f4e-4cd9-99ef-ea9388c6a342",
+    "Name": "Avocado"
+  },
+  {
+    "Id": "8ec9b0e0-92e9-4f15-99df-5ed67b3720e8",
+    "Name": "Grapefruit"
+  }
+]
