@@ -7,7 +7,7 @@ namespace ProcessRUsTask.Extensions
     {
         public static FruitDTO AsDTO(this Fruit fruit)
         {
-            return new FruitDTO { Id = fruit.Id, Name = fruit.Name };
+            return new FruitDTO(fruit.Id, fruit.Name);
         }
     }
 }
